@@ -1,0 +1,2 @@
+
+(load "~/Dropbox/emacs/emacscommon")
